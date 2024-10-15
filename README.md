@@ -10,8 +10,7 @@
 ## Live Demo
 
 You can access the live demo of the CGPA Calculator at the following link:
-<a href="https://sahilkasare.github.io/CGPA_Calculator/" target="_blank" rel="noopener noreferrer">CGPA Calculator</a>
-
+[CGPA Calculator](https://sahilkasare.github.io/CGPA_Calculator/)
 
 * We hearby dont store any of the data, feel free to use it in case of any concern.
 ## Thankyou
